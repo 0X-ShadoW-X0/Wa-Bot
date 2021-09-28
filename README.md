@@ -25,19 +25,7 @@ Project created by <a href="https://github.com/SPARK-SHADOW">Shadow</a> to make 
 </p>
 
 ----
-
-  <p align="center">
-  <a href="https://github.com/SPARK-SHADOW/Shadow-V2 ">
-    <img src="https://img.shields.io/github/repo-size/SPARK-SHADOW/Shadow-V2?color=green&label=Repo%20total%20size&style=plastic">
-<p align="center">
-<a href="https://github.com/SPARK-SHADOW/followers"><img title="Followers" src="https://img.shields.io/github/followers/SPARK-SHADOW?color=red&style=flat-circle"></a>
-<a href="https://github.com/SPARK-SHADOW/Shadow-V2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/SPARK-SHADOW/Shadow-V2?color=red&style=flat-square"></a>
-<a href="https://github.com/SPARK-SHADOW/Shadow-V2/network/members"><img title="Forks" src="https://img.shields.io/github/forks/SPARK-SHADOW/Shadow-V2?color=red&style=flat-square"></a>
-<a href="https://github.com/SPARK-SHADOW/Shadow-V2/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/SPARK-SHADOW/Shadow-V2?label=Watchers&color=red&style=flat-square"></a>
-<a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-blue.svg"</a>
-
 ```
-  
 WhatsAsena - Asena Userbot is Open Source software open to development. 
 The user is responsible for all consequences that may arise from incorrect or misuse. 
 Since it is an open source project, anyone can copy the software, add and remove,
